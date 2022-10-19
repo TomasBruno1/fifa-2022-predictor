@@ -9,7 +9,7 @@ A World Cup match predictor can be beneficial for the participating teams becaus
 On the other hand, the predictor can be sold to people who bet on the outcome of matches. This can give you a huge advantage in these decisions.
 Also, it's a fun project :D
 <p align="center">
- <img src= "https://github.com/TomasBruno1/Arcade-IC/blob/master/assets/fulvo.png" width=400 >
+ <img src= "https://github.com/TomasBruno1/Arcade-IC/blob/master/assets/fulvo.jpeg" width=400 >
 </p>
 
 ## Dataset to use
@@ -18,5 +18,5 @@ Also, it's a fun project :D
 The dataset has 25 columns in total and provides information on all international matches played between national teams starting in the 1990s. Some of the most outstanding columns in the dataset are home_team(home team), away_team(away team). The dataset also has general scores awarded by FIFA that provide data on the team in general, defense and attack.
 Under our proposal, we will seek to predict the home_team_result column about the different matches scheduled in the 2022 World Cup.
 <p align="center">
- <img src= "https://github.com/TomasBruno1/Arcade-IC/blob/master/assets/messi_chiquito.png" width=400 >
+ <img src= "https://github.com/TomasBruno1/Arcade-IC/blob/master/assets/messi_chiquito.jpg" width=400 >
 </p>
