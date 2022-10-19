@@ -18,5 +18,5 @@ Also, it's a fun project :D
 The dataset has 25 columns in total and provides information on all international matches played between national teams starting in the 1990s. Some of the most outstanding columns in the dataset are home_team(home team), away_team(away team). The dataset also has general scores awarded by FIFA that provide data on the team in general, defense and attack.
 Under our proposal, we will seek to predict the home_team_result column about the different matches scheduled in the 2022 World Cup.
 <p align="center">
- <img src= "https://github.com/TomasBruno1/fifa-2022-predictor/blob/main/assets/messi_chiquito.jpg" width=400 >
+ <img src= "https://github.com/TomasBruno1/fifa-2022-predictor/blob/main/assets/messi_chiquito.png" width=400 >
 </p>
